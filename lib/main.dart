@@ -21,7 +21,7 @@ class Home extends StatelessWidget {
     floatingActionButton: FloatingActionButton(
       onPressed: () {
       },
-      child: Text('Liny'),
+      child: Text('yash'),
     ),
   );
   }
